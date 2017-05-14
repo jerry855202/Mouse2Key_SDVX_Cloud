@@ -81,11 +81,11 @@ int main(int argc, char** argv)
 	cout << "You can open the game now." << endl;
 	cout << "Simply press Alt+Tab / Ctrl+C / Exit SDVX to release the mouse." << endl;
 
-	//Not for TChinese
+	//Note for TChinese
 	cout << "----" << endl;
-	cout << "¥ªÃþ¤ñ¸Ë¸m¹ïÀ³¬°Q/W & ¥kÃþ¤ñ¸Ë¸m¹ïÀ³¬°O/P" << endl;
-	cout << "§A²{¦b¥i¥H¶}±Ò¹CÀ¸¡C" << endl;
-	cout << "¨Ï¥ÎAlt+Tab¤Á´«µøµ¡ / Ctrl+C / Â÷¶}¹CÀ¸ ¨Ó¸Ñ°£·Æ¹«Âê©w¡C" << endl;
+	cout << "å·¦é¡žæ¯”è£ç½®å°æ‡‰ç‚ºQ/W & å³é¡žæ¯”è£ç½®å°æ‡‰ç‚ºO/P" << endl;
+	cout << "ä½ ç¾åœ¨å¯ä»¥é–‹å•ŸéŠæˆ²ã€‚" << endl;
+	cout << "ä½¿ç”¨Alt+Tabåˆ‡æ›è¦–çª— / Ctrl+C / é›¢é–‹éŠæˆ² ä¾†è§£é™¤æ»‘é¼ éŽ–å®šã€‚" << endl;
 
 	//Keyboard Init
 	Button[0].type = INPUT_KEYBOARD;
